@@ -1,0 +1,1 @@
+puts "Somewhere in the program is missing a closing bracket."
