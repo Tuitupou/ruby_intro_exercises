@@ -1,0 +1,5 @@
+puts "(32 * 4) >= 129 returns 'false'."
+puts "false != !true returns 'false'."
+puts "true == 4 returns 'false'."
+puts "false == (847 == '874') returns 'true'."
+puts "(!true || (!(100/5) == 20) || ((328/4) == 82)) || false returns 'true'."
